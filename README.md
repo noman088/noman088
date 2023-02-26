@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Noman
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning  C++
+- 🌱 I’m currently learning  DSA through C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .. mdnoman70499@gmail.com
 
