@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/@nomaan_47" target="blank"><img src="https://img.shields.io/twitter/follow/@nomaan_47?logo=twitter&style=for-the-badge" alt="@nomaan_47" /></a> </p>
 
-- 🌱 I’m currently learning **c++ ,Data Structure and Algorithm**
+- 🌱 I’m currently learning **C++ ,Data Structure and Algorithm**
 
 - 💬 Ask me about **C and C++**
 
