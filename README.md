@@ -10,10 +10,8 @@
 noman088/noman088 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Noman Ahmad</h1>
-<h3 align="center">A passionate Programmer  </h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<h3 align="center">A passionate Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noman088&label=Profile%20views&color=0e75b6&style=flat" alt="noman088" /> </p>
 
@@ -21,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/@nomaan_47" target="blank"><img src="https://img.shields.io/twitter/follow/@nomaan_47?logo=twitter&style=for-the-badge" alt="@nomaan_47" /></a> </p>
 
-- 🌱 I’m currently learning **C++ ,Data Structure and Algorithm**
+- 🌱 I’m currently learning **c++ ,Data Structure and Algorithm**
 
 - 💬 Ask me about **C and C++**
 
@@ -30,8 +28,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@nomaan_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nomaan_47" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md noman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/noman_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="noman_47" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-noman-92207b238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-noman-92207b238/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20504659/md-noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20504659/md-noman" height="30" width="40" /></a>
 <a href="https://fb.com/md noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md noman" height="30" width="40" /></a>
 <a href="https://instagram.com/mdnoman0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdnoman0786" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@noman_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@noman_47" height="30" width="40" /></a>
