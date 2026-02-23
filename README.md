@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noman Ahmad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noman088&label=Profile%20views&color=0e75b6&style=flat" alt="noman088" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@nomaan_47" target="blank"><img src="https://img.shields.io/twitter/follow/@nomaan_47?logo=twitter&style=for-the-badge" alt="@nomaan_47" /></a> </p>
 
-- 🌱 I’m currently learning **c++ ,Data Structure and Algorithm**
+- 🌱 I’m currently learning **Full Stack With DeveOps**
 
 - 👨‍💻 All of my projects are available at [https://nomaanahmad.netlify.app/](https://nomaanahmad.netlify.app/)
 
-- 💬 Ask me about **C and C++**
+- 💬 Ask me about **Full Stack Developement**
 
 - 📫 How to reach me **mdnoman70499@gmail.com**
 
