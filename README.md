@@ -26,7 +26,7 @@
 <a href="https://www.codechef.com/users/nomaan47" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nomaan47" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/noman_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noman_47" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/noman_47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noman_47" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mdnoman7970927549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/mdnoman7970927549" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/nomaan____47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/noman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
